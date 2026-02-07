@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Current Version: 1.0.5
-
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/Toolkit.git"
 # bash ./Toolkit/GPG.sh -m "decrypt" -p "<PASSWORD>" -f "<FILE>"
