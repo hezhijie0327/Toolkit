@@ -1,18 +1,18 @@
-# Toolkit 工具集
+# Toolkit
 
-一个用于自动化 Git 和 GPG 操作的 Shell 脚本工具集。
+一个用于自动化 Git 和 GPG 操作的 Shell 脚本工具集。开发指南见 [AGENTS.md](AGENTS.md)。
 
 ## 简介
 
 Toolkit 是一个基于 Bash 的轻量级工具集，提供了自动化 Git 和 GPG 操作的脚本。无需外部依赖，仅需标准的 Unix 工具即可运行。
 
-## 安装
+## 快速开始
 
 ```bash
 git clone "https://github.com/hezhijie0327/Toolkit.git"
 ```
 
-## 使用方法
+## 用法
 
 ### Git 操作脚本 (Git.sh)
 
@@ -129,10 +129,10 @@ bash ./GPG.sh -m "verify" -f "文件路径" -s "签名文件路径"
 - 文件操作前会检查文件是否存在
 - 操作成功或失败都会给出明确反馈
 
-## 许可证
-
-本项目采用Apache License 2.0 with Commons Clause v1.0许可证 - 详见[LICENSE](LICENSE)文件
-
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！
+
+## License
+
+[Apache License 2.0 with Commons Clause v1.0](LICENSE)
