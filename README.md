@@ -1,5 +1,8 @@
 # Toolkit
 
+[![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+
 一个用于自动化 Git 和 GPG 操作的 Shell 脚本工具集。开发指南见 [AGENTS.md](AGENTS.md)。
 
 ## 简介
